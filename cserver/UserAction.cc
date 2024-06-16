@@ -1,3 +1,4 @@
+// salad, burger, megaburger的製作函式以及GetNextOrder的strategy還沒有做或是只是暫時能跑的版本
 #include <iostream>
 #include <vector>
 #include <algorithm>
